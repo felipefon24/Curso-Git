@@ -2,3 +2,5 @@
 <p> Esto es un parrafo de ejemplo"</p>
 <link> href="C:\Users\felip\Desktop\Cursos programacion\Curso git\Proyecto web empresa A\CSS" rel="stylesheet
 type="text/css">
+background-color:#00f
+font-weigth
